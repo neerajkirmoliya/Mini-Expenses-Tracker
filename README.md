@@ -69,3 +69,25 @@ mini-expense-tracker/
 ├── BudgetPanel.jsx
 ├── ExpenseForm.jsx
 └── ExpenseList.jsx
+
+## AI Assistance
+
+During this project, I used Claude AI as a reference tool 
+when I got stuck — similar to how a developer would use 
+Stack Overflow or documentation.
+
+Specifically I used it for:
+- Understanding how to structure a monorepo project
+- Clarifying how Express middleware works
+- Looking up correct React hooks syntax
+
+Everything else I did myself:
+- Designed the component structure
+- Decided how data flows between frontend and backend
+- Chose the tech stack (Vite, Recharts, Axios)
+- Manually wrote, typed and tested every file
+- Debugged all errors that came up during development
+- Made all UI and UX decisions
+
+I treat AI the same way I treat documentation —
+as a reference, not a replacement for thinking.
