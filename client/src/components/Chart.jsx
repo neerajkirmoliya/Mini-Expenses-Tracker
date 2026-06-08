@@ -9,7 +9,7 @@ import {
   Legend,
 } from "recharts";
 
-const API = "http://localhost:4000";
+const API = "https://mini-expenses-tracker.onrender.com";
 
 const COLORS = {
   Food: "#f97316",
