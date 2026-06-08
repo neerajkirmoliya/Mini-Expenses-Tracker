@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 import axios from "axios";
 import ExpenseForm from "./ExpenseForm.jsx";
 
-const API = "http://localhost:4000";
+const API = "https://mini-expenses-tracker.onrender.com";
 const CATEGORIES = ["All", "Food", "Transport", "Bills", "Entertainment", "Other"];
 
 export default function ExpenseList({ refresh, onChanged }) {
