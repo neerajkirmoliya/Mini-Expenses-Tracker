@@ -4,8 +4,7 @@
 A full-stack expense tracking application built with Node.js and React. Users can log daily expenses across categories, view spending summaries, set budgets per category, and visualize spending with charts. Built for the Studio Graphene Full Stack Developer Assessment (Exercise 2).
 
 ## Live Demo
-- Frontend: (add after deployment)
-- Backend: https://mini-expense-tracker-knnu.onrender.com
+-https://mini-expenses-tracker-client.vercel.app/
 
 ## Tech Stack
 - **Backend:** Node.js, Express — simple and fast REST API
