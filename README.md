@@ -1,7 +1,7 @@
 # 💸 Mini Expense Tracker
 
 ## Project Description
-A full-stack expense tracking application built with Node.js and React. Users can log daily expenses across categories, view spending summaries, set budgets per category, and visualize spending with charts. Built for the Studio Graphene Full Stack Developer Assessment (Exercise 2).
+A full-stack expense tracking application built with Node.js and React. Users can log daily expenses across categories, view spending summaries, set budgets per category, and visualize spending with charts.
 
 ## Live Demo
 -https://mini-expenses-tracker-client.vercel.app/
